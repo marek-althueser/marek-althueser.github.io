@@ -1,6 +1,6 @@
 # Marek Althüser – Portfolio
 
-**Live ansehen: [smvvjrdx5z-wq.github.io](https://smvvjrdx5z-wq.github.io)**
+**Live ansehen: [marek-althueser.github.io](https://marek-althueser.github.io)**
 
 Ich bin 17, Schüler in Rostock und baue Web-Apps, Websites und Apps mit lokaler KI, vom ersten Entwurf bis zum Deployment. Dieses Repository enthält meine Portfolio-Seite.
 
